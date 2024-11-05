@@ -1,1 +1,6 @@
 streamlit
+pandas
+psycopg2
+matplotlib
+seaborn
+plotly
